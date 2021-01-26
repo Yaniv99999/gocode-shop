@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "gocode-shop"
+  "defaultProject": "gocode-shop",
+  "cli": {
+    "analytics": false
+  }
 }
