@@ -1,7 +1,7 @@
 {
   "name": "gocode-shop",
   "version": "0.0.0",
-  
+
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -26,6 +26,7 @@
     "tslib": "^2.0.0",
     "zone.js": "~0.10.2"
   },
+  
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.1100.5",
     "@angular/cli": "~11.0.5",
